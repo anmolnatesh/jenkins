@@ -1,0 +1,8 @@
+Started by user [8mha:////4Kzd2uMVT1v91Tw7vkvjIsTBiGoVPs3UGReYwi1HctStAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgZB/dLi1CL9xLzc/Jy8xJLU4gwAt2wqb8YAAAA=[0manmol natesh
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/deploy
+[deploy] $ /bin/sh -xe /tmp/jenkins17337666769033548572.sh
++ sudo cp /var/lib/jenkins/workspace/build/target/java-tomcat-maven-example.war /opt/tomcat/webapps/
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

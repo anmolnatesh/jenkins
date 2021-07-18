@@ -1,0 +1,13 @@
+Started on Jul 18, 2021, 1:02:06 PM
+Started by event from 140.82.115.242 ⇒ http://13.59.247.199:8080/github-webhook/ on Sun Jul 18 13:02:05 UTC 2021
+Using strategy: Default
+[poll] Last Built Revision: Revision 94e8ffd7ca370c72b83162c55442eb4a07e24731 (refs/remotes/origin/master)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git ls-remote -h -- https://github.com/anmolnatesh/javawar.git # timeout=10
+Found 1 remote heads on https://github.com/anmolnatesh/javawar.git
+[poll] Latest remote head revision on refs/heads/master is: 4d5ac018e769ec3165f75265f83f5c76194e4b67
+Done. Took 0.22 sec
+Changes found
